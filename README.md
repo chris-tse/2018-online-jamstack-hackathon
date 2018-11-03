@@ -13,8 +13,8 @@ Please read the following carefully, and act on each item that requires your att
 - [x] Review the [APIs](/apis.md)
 - [ ] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
 - [ ] Review the [Judging Protocol](/judging-protocol.md)
-- [ ] Already have a team? List it in the [Teams file](/teams.md).
-- [ ] Don't have a team? Review the [Teams](/teams.md) that are seeking teammates.
+- [x] Already have a team? List it in the [Teams file](/teams.md).
+- [x] Don't have a team? Review the [Teams](/teams.md) that are seeking teammates.
 - [ ] Review the [Schedule](/schedule.md)
 - [ ] Review the resources and recommendations for [Getting Started](/getting-started.md) with the JAMstack. This will give you good resources for starting your project.
 - [x] Ensure that you deploy your project with [Netlify](https://www.netlify.com). You should already have an account per the hackathon application instructions
