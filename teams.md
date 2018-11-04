@@ -413,6 +413,7 @@ Happy Healty Snack Jamming and coding hard!!!
   - Joe Matthews
   - Hong L
   - Natalie Fleming
+  - Daniel Ashcraft
 * Seaking Teammates: No
 * [Project URL](https://github.com/chris-tse/extralifeleaderboard)
 * Project Name: Extra-Life Donations Leaderboard
